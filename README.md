@@ -5,7 +5,7 @@ FuncDump is a Python program that extracts and saves decompiled functions direct
 
 
 ## Table of Contents
-- [Installation](#git clone https://github.com/Xnrrrrrr/FuncDump/edit/main/README.md )
+- [Installation]( Git clone the repo or download as zip)
 - [Usage](#Input this script into script manager on GHIDRA)
 - [Features](#exports decompiled functions from GHIDRA)
 - [Contributing](#contributions closed)
